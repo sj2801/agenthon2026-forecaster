@@ -1,0 +1,23 @@
+# Competition submission files: never commit (team-claim.json holds a Team Key proof)
+*.zip
+submission*.json
+team-claim*.json
+*.key
+*team*key*
+.env
+.env.*
+
+# Organizer data and local outputs: link to the public repo instead
+*.parquet
+units/
+practice-answers/
+track2-forecasting-public/
+smoke/
+out/
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+uvenv/

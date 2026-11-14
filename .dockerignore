@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+research/
+*.md
+submission*.json
+submission*.zip
+make_descriptor.py
